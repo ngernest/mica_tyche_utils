@@ -1,0 +1,4 @@
+(library
+ (name mica_tyche_utils)
+ (public_name mica_tyche_utils)
+ (libraries base yojson core_unix))
